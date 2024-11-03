@@ -1,0 +1,18 @@
+body { 
+    background-color: aqua;
+    }
+
+
+.container-index {
+    background-color: rgb(29, 124, 207);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    
+}
+
+.container-home {
+    background-color: antiquewhite;
+    margin-top: 10px;
+}

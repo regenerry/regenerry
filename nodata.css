@@ -1,0 +1,29 @@
+/* Mengatur seluruh body agar memenuhi layar dan tanpa margin */
+body, html {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Arial, sans-serif;
+    background-color: rgb(255, 0, 221);
+}
+
+/* Mengatur elemen yang ingin ditengah */
+.centered {
+    text-align: center;
+    text-decoration: none;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    text-decoration-color: rgb(255, 0, 221);
+}
+
+
+.back a {
+    text-decoration: none;
+    background-color: white;
+    color: rgb(255, 0, 221);
+    border-radius: 5px;
+    padding: 5px;
+}
